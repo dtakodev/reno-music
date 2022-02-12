@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "633857616611",
+    "project_id": "reno-music",
+    "storage_bucket": "reno-music.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633857616611:android:892cb4dd0c5bca2c5c73d6",
+        "android_client_info": {
+          "package_name": "code.name.monkey.retromusic.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633857616611-94alp8q45ce02paahdfr4ijp01o9luba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMd0A9_VL6bFTdA2cCCehD_ACDqfFFV2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633857616611-94alp8q45ce02paahdfr4ijp01o9luba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
